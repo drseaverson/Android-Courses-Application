@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InClass09</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_class">Add Class</string>
+    <string name="course_num">Course Number</string>
+    <string name="course_name">Course Name</string>
+    <string name="credit_hours">Credit Hours</string>
+    <string name="course_grade">Course Grade</string>
+    <string name="courses">Courses</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+</resources>
