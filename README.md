@@ -5,4 +5,4 @@ This Android Application allows the user to keep track of all their current cour
 
 > This application also displays the user's overall gpa and grade based on the current courses
 
-The [preview]() of the application displays both screens including the courses screen of all current courses and a screen displaying the "add courses" screen in which the user can add a course
+The [preview](https://github.com/drseaverson/Android-Courses-Application/tree/main/Images) of the application displays both screens including the courses screen of all current courses and a screen displaying the "add courses" screen in which the user can add a course
